@@ -1,3 +1,4 @@
+![logo](github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Kanan Panjwani</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
